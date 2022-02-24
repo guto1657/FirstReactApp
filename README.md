@@ -1,5 +1,5 @@
 <h1 align="center">
-⚛️ First React App
+⚛️ React Post App
 </h1>
 
 ![posts](https://user-images.githubusercontent.com/70277574/142622320-f7a77cb4-b5ab-4fde-ad28-b6160b407db2.png)
